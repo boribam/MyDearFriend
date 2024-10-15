@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "542636472548",
+    "project_id": "mydearfriend-235ee",
+    "storage_bucket": "mydearfriend-235ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542636472548:android:98b06b00511311ac99d4f1",
+        "android_client_info": {
+          "package_name": "com.bbam.mydearfriend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACKAScBkxkyPBD4gFgXbR2fF4AevJapCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
