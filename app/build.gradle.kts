@@ -47,6 +47,10 @@ dependencies {
     implementation(libs.androidx.activity)
     implementation(libs.androidx.constraintlayout)
     implementation(libs.circleimageview)
+    implementation(libs.retrofit)
+    implementation(libs.converter.gson)
+    implementation(libs.glide)
+    implementation(libs.firebase.storage.ktx)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
@@ -56,4 +60,11 @@ dependencies {
     implementation("com.google.firebase:firebase-firestore-ktx")
 
     implementation("com.github.prolificinteractive:material-calendarview:2.0.1")
+
+    implementation("com.naver.maps:map-sdk:3.19.1")
+
+    implementation("com.squareup.okhttp3:okhttp:4.9.3")  // OkHttp 라이브러리
+    implementation("com.squareup.okhttp3:logging-interceptor:4.9.3")  // HttpLoggingInterceptor
+
+    implementation("com.squareup.picasso:picasso:2.8")
 }
